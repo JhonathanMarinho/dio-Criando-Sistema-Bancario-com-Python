@@ -2,8 +2,7 @@
 
 ## Desafio
 
-Neste projeto, você terá a oportunidade de criar um Sistema Bancário em Python. O objetivo é implementar três operações essenciais: depósito, saque e extrato. O sistema será desenvolvido para um banco que busca monetizar suas operações. Durante o desafio, você terá a chance de aplicar seus conhecimentos em programação Python e criar um sistema funcional que simule as operações bancárias. Prepare-se para aprimorar suas habilidades e demonstrar sua capacidade de desenvolver soluções práticas e eficientes.
-
+Neste projeto foi desenvolvido com o uso de funções Python. O objetivo é implementar  operações: depósito, saque, extrato, criar usuário, criar contas e listar contas. Foi dividindo-o em funções reutilizáveis, facilitando a manutenção e o entendimento do sistema como um todo.
 <p> 
 Tecnologia usada : PYTHON
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="17">
